@@ -6,4 +6,5 @@ Group members:
 
 Renee Hagemans - 14386690
 Eline Lunsingh Scheurleer - 14046318
-Simon Bevaart -
+Simon Bevaart - 14660229
+Niet wim
