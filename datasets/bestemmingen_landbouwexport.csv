@@ -1,4 +1,4 @@
- ,2021 (mld euro),2020 (mld euro)
+Landen,2021 (mld euro),2020 (mld euro)
 Duitsland,"26,3","24,5"
 België,"12,1","10,7"
 Frankrijk,"8,6","7,6"
@@ -8,4 +8,8 @@ China,"3,9","3,8"
 Spanje,"3,3","2,7"
 Polen,"3,3","2,7"
 Verenigde Staten,"3,0","2,7"
+<<<<<<< HEAD,,
 Denemarken,"2,3","1,9"
+=======,,
+Denemarken,"2,3","1,9"
+>>>>>>> 017e4dc2985bc442305ed590b9d9e55a21653b41,,
