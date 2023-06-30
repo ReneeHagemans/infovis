@@ -3,7 +3,7 @@
 ![1688129005262](image/home/1688129005262.png)
 
 Door: Eline, Simon en Renée <br>
-
+https://github.com/ReneeHagemans/infovis <br>
 
 In Nederland is er grote discussie rondom het behalen van de klimaatdoelen. Dit bleek ook weer een grote topic te zijn bij de afgelopen tweede kamer verkiezingen. Een hoofdpunt van de debatten en discussies; moet de veestapel en dus het aantal boeren in Nederland verminderen? Zo schoot de Boer Burger Beweging omhoog in de peilingen, met belang voor boerderij behoud op één. Anderzijds stegen groene partijen die de boeren verminderd willen zien. <br>
 
