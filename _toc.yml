@@ -4,7 +4,7 @@
 format: jb-book
 root: docs/home
 chapters:
-- file: docs/infodataset.ipynb
-- file: docs/notebook.ipynb
-- file: docs/reflectie.md
-- file: docs/werkverdeling.md
+- file: docs/notebook
+- file: docs/infodataset
+- file: docs/reflectie
+- file: docs/werkverdeling
